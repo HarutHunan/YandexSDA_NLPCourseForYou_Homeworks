@@ -1,4 +1,5 @@
 .gitignore
 *.vec
-/Lecture2_Text_Classification/seminar_tf2.ipynb
-/Lecture3_Language_Models/homework_tf.ipynb
+Lecture2_Text_Classification/seminar_tf2.ipynb
+Lecture2_Text_Classification/Train_rev1.zip
+Lecture3_Language_Models/homework_tf.ipynb
