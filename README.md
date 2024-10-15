@@ -1,6 +1,6 @@
 # Yandex School of Data Analysis | NLP Course For You
 
-This repo contains completed seminar and homework notebooks from [Yandex School of Data Analysis](https://github.com/yandexdataschool/nlp_course/tree/2024), based on [NLP Course For You](https://lena-voita.github.io/nlp_course.html) by Elena Voyta.
+This repo contains completed seminar and homework notebooks from [Yandex School of Data Analysis](https://github.com/yandexdataschool/nlp_course/tree/2024), based on [NLP Course For You](https://lena-voita.github.io/nlp_course.html) by Elena Voita.
 
 ## Contents
 *   [Lecture 1](https://github.com/HarutHunan/YandexSDA_NLPCourseForYou_Homeworks/tree/main/Lecture1_Word_Embeddings) - Word Embeddings (Word2Vec, intro to gensim & nltk)
