@@ -7,4 +7,5 @@ This repo contains completed seminar and homework notebooks from [Yandex School 
 *   [Lecture 2](https://github.com/HarutHunan/YandexSDA_NLPCourseForYou_Homeworks/tree/main/Lecture2_Text_Classification) - Text classification (CNNs, RNNs from scratch)
 *   [Lecture 3](https://github.com/HarutHunan/YandexSDA_NLPCourseForYou_Homeworks/tree/main/Lecture3_Language_Models) - Language Models (Basic Architecture, Training)
 *   [Lecture 4](https://github.com/HarutHunan/YandexSDA_NLPCourseForYou_Homeworks/tree/main/Lecture4_Attention) - Seq2seq (Encoder-Decoder Architecture, Attention, Self Attention & Transformers)
+*   [Lecture 5](https://github.com/HarutHunan/YandexSDA_NLPCourseForYou_Homeworks/tree/main/Lecture5_Transfer_Learning) - Transfer Learning (Huggingface transformers, GPT architecture with self-attention, Sequence Classification Pipeline and Fine-tuning)
 
