@@ -1,4 +1,4 @@
-# Yandex School of Data Analysis | NLP Course For You
+# Yandex School of Data Analysis | NLP Course For You | Seminars & Homeworks
 
 This repo contains completed seminar and homework notebooks from [Yandex School of Data Analysis](https://github.com/yandexdataschool/nlp_course/tree/2024), based on [NLP Course For You](https://lena-voita.github.io/nlp_course.html) by Elena Voita.
 
